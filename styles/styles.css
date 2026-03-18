@@ -232,6 +232,10 @@ form input {
   margin-right: 15px;
 }
 
+/* I am attempting to finish this assignment on my home computure and to make the text line up it is different on my home computure vs my laptop. */
+/* on my home computure my input boxes are 108px and my laptop they are 107.2px, I am going to submit this with my home computure so hopfully it looks right when its opened */
+
+
 form button {
   height: 21px;
   width: 108px;
